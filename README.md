@@ -15,3 +15,8 @@ Estudo sobre estrutura de dados em Python, que tem por objetivo entender o funci
  
  Compreensões de lista (List Comprehensions) são uma das características mais poderosas e úteis do Python. Elas permitem criar listas em uma única linha de código, 
  tornando o código mais legível e conciso.
+
+ ## Fonte:
+
+- https://pythonacademy.com.br/blog/listas-no-python  
+- https://www.usandopy.com/pt/artigo/estruturas-de-dados-com-python-introducao/
